@@ -1678,7 +1678,6 @@ PRODUCT_PACKAGES += \
     oplus_appradio_device_manifest \
     oplus_radio_device_manifest \
     vendor.mediatek.hardware.dplanner@2.0-service \
-    ueventd.mtk.rc \
     chargeonlymode \
     vtservice \
     atcid \
